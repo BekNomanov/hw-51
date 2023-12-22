@@ -66,3 +66,9 @@ h3 {
   border-radius: 10px;
   background-color: #ff3535;
 }
+
+p {
+  text-align: center;
+  color: white;
+  font-size: 12px;
+}
